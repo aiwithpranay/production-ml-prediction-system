@@ -1,0 +1,8 @@
+COLUMNS:
+  customerID: object
+  gender: object
+  SeniorCitizen: int64
+  tenure: int64
+  MonthlyCharges: float64
+  TotalCharges: float64
+  Churn: object
